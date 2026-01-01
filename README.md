@@ -1,34 +1,23 @@
-# Adonis Garcia
+# adonis garcia
 
 <div align="center">
   
-### 🚀 ML Engineer | CS @ NYU | Building AI for Good
+### ml engineer | cs @ nyu | building ai for good
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonis-garcia-swe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adonisgarcia.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonis.garcia@nyu.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adonis-garcia-git)
 
-![Coding](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![ML](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+![School](https://img.shields.io/badge/NYU_Tandon_School_of_Engineering-57068C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDNMMyA5bDkgNiA5LTYtOS02em0wIDEwbC03LTQuNjdWMTZsNyA0LjY3TDE5IDE2VjguMzNMMTIgMTN6Ii8+PC9zdmc+&logoColor=white)
 ![GPA](https://img.shields.io/badge/GPA-4.0-success?style=flat)
-![Location](https://img.shields.io/badge/Location-Brooklyn%2C%20NY-blue?style=flat&logo=google-maps)
+![Location](https://img.shields.io/badge/Location-New%20York%2C%20NY-blue?style=flat&logo=google-maps)
 
 </div>
 
 ---
 
-## 👋 About Me in 10 Seconds
-
-🇩🇴 **From:** The Bronx | **Currently:** Brooklyn, NY  
-🎓 **CS @ NYU Tandon** | 4.0 GPA | Future First Hispanic Valedictorian  
-🤖 **ML Engineer @ MissionML** | Previously: Bank of America, Polydelta AI  
-🌍 **Global:** Studied in Abu Dhabi (2x) & Seoul  
-💡 **Mission:** Building AI to democratize education worldwide
-
----
-
-## 🛠️ Tech Stack
+## tech stack
 
 <div align="center">
 
@@ -41,53 +30,65 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Specialties:** RAG Systems • LLMs • Vector Databases • Computer Vision • NLP
+**specialties:** rag systems • llms • vector databases • computer vision • nlp
 
 </div>
 
 ---
 
-## 💼 Experience Highlights
+## experience
 
-```python
-experience = {
-    "MissionML": {
-        "role": "ML Software Engineer",
-        "impact": ["Federal AI systems", "35% latency reduction", "RAG pipelines"]
-    },
-    "Bank of America": {
-        "role": "SWE Intern",
-        "impact": ["100s of clicks → <10", "60% faster workflows", "2000+ intern platform"]
-    },
-    "Polydelta AI": {
-        "role": "ML Engineer",
-        "impact": ["40% accuracy boost", "10K+ docs processed", "95% classification"]
-    }
-}
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="assets/missionml.png" alt="MissionML" width="120"/><br/>
+<b>ml software engineer</b><br/>
+<sub>sep 2025 - present</sub>
+</td>
+<td align="center" width="25%">
+<img src="assets/bankofamerica.png" alt="Bank of America" width="120"/><br/>
+<b>software engineering intern</b><br/>
+<sub>may 2025 - aug 2025</sub>
+</td>
+<td align="center" width="25%">
+<img src="assets/polydelta.jpg" alt="Polydelta AI" width="120"/><br/>
+<b>ml software engineer</b><br/>
+<sub>jan 2024 - jun 2025</sub>
+</td>
+<td align="center" width="25%">
+<img src="assets/nyu.png" alt="NYU" width="120"/><br/>
+<b>teaching assistant</b><br/>
+<sub>jul 2023 - may 2024</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🏆 Achievements & Awards
+## achievements & awards
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎓 Academic
-- 🥇 **4.0 GPA** (all semesters)
-- 🎯 **On track:** First Hispanic Valedictorian @ Tandon
-- ⭐ **NYU Scholar of the Year 2023**
-- 🌟 **GLASS Honors Program**
+### academic
+- **4.0 gpa** (all semesters)
+- **on track:** first hispanic valedictorian @ tandon
+- **nyu scholar of the year 2023**
+- **glass honors program**
 
 </td>
 <td width="50%">
 
-### 🚀 Innovation
-- 🥈 **2nd Place** - NYUAD Hackathon
-- 🏅 **NYU Outstanding Innovator 2022**
-- 🎖️ **Gunter Georgi Award 2022**
-- 👏 **Audience Choice Award**
+### innovation
+- **2nd place** - nyuad hackathon
+- **nyu outstanding innovator 2022**
+- **gunter georgi award 2022**
+- **audience choice award**
 
 </td>
 </tr>
@@ -95,89 +96,89 @@ experience = {
 
 ---
 
-## 🔥 Featured Projects
+## featured projects
 
-### 🌍 [Q-quake](https://github.com/yourusername/q-quake)
-> Quantum + AI earthquake detection system  
-> `Quantum Computing` `PyTorch` `APIs` • 🥈 2nd Place @ NYUAD Hackathon
+### [q-quake](https://github.com/adonis-garcia-git/q-quake)
+> quantum + ai earthquake detection system  
+> `quantum computing` `pytorch` `apis` • 2nd place @ nyuad hackathon
 
-### 🎓 [CS Learning Platform](https://github.com/yourusername/cs-tutor)
-> Personalized LLM tutor teaching through your interests  
-> `React` `Claude API` `PostgreSQL` • Teaches gaming fans CS through game design
+### [cs learning platform](https://github.com/adonis-garcia-git/cs-tutor)
+> personalized llm tutor teaching through your interests  
+> `react` `claude api` `postgresql` • teaches gaming fans cs through game design
 
-### 🧤 [The E-Glove](https://github.com/yourusername/eglove)
-> Computer vision wireless mouse  
-> `OpenCV` `Arduino` `Python` • 🏆 Won 2 Innovation Awards
+### [the e-glove](https://github.com/adonis-garcia-git/eglove)
+> computer vision wireless mouse  
+> `opencv` `arduino` `python` • won 2 innovation awards
 
-### 📚 [Course Q&A RAG](https://github.com/yourusername/course-rag)
-> Students ask, AI answers from course docs  
-> `Next.js` `Pinecone` `FastAPI` • Analytics dashboard for professors
+### [course q&a rag](https://github.com/adonis-garcia-git/course-rag)
+> students ask, ai answers from course docs  
+> `next.js` `pinecone` `fastapi` • analytics dashboard for professors
 
 ---
 
-## 📊 GitHub Stats
+## github stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adonis-garcia-git&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adonis-garcia-git&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## 🎯 Currently
+## currently
 
 ```javascript
 const adonis = {
-    code: ["Python", "C++", "JavaScript", "TypeScript"],
-    focus: "Building RAG systems for production",
-    learning: ["Quantum Computing", "Advanced ML Scaling", "Arabic"],
-    challenge: "Balancing student + engineer + mentor + human",
-    goal: "AI tools for underserved communities worldwide",
-    fun_fact: "Spent a weekend on a Sheikh's private island 🏝️"
+    code: ["python", "c++", "javascript", "typescript"],
+    focus: "building rag systems for production",
+    learning: ["quantum computing", "advanced ml scaling", "arabic"],
+    challenge: "balancing student + engineer + mentor + human",
+    goal: "ai tools for underserved communities worldwide",
+    fun_fact: "spent a weekend on a sheikh's private island"
 }
 ```
 
 ---
 
-## 💡 The Mission
+## the mission
 
-> **From 778 to ∞**: Only 778 Dominican students studied in the US in 2021. I'm building AI-powered educational tools to change that number forever.
+> **from 778 to ∞**: only 778 dominican students studied in the us in 2021. i'm building ai-powered educational tools to change that number forever.
 
-**The Plan:**
-1. ✅ Master ML/AI at world-class university
-2. ✅ Build production systems that work
-3. 🔄 Create accessible educational AI
-4. 🎯 Deploy in underserved communities
-5. 🚀 Scale globally
-
----
-
-## 🌟 Quick Facts
-
-- 🧠 First HEOP student at Tandon to maintain 4.0 past freshman year
-- 🌍 Backpacked 6 European countries in 10 days
-- 🎮 Gaming & gym enthusiast
-- 👨‍🏫 Mentor to 50+ underrepresented students
-- ☕ Powered by coffee and my mom's sacrifices
+**the plan:**
+1. master ml/ai at world-class university
+2. build production systems that work
+3. create accessible educational ai
+4. deploy in underserved communities
+5. scale globally
 
 ---
 
-## 📫 Let's Connect!
+## quick facts
+
+- first heop student at tandon to maintain 4.0 past freshman year
+- backpacked 6 european countries in 10 days
+- gaming & gym enthusiast
+- mentor to 50+ underrepresented students
+- powered by coffee and my mom's sacrifices
+
+---
+
+## let's connect
 
 <div align="center">
 
-**Open to:** Collaboration • Mentorship • Speaking • Open Source
+**open to:** collaboration • mentorship • speaking • open source
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonis-garcia-swe)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonis.garcia@nyu.edu)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adonisgarcia.com)
 
-### *"From the Bronx to building AI for good. Every line of code carries my mother's sacrifices."* 🚀
+### *"from the bronx to building ai for good. every line of code carries my mother's sacrifices."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=adonis-garcia-git&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -185,6 +186,6 @@ const adonis = {
 
 <div align="center">
 
-**⭐ Star my repos if you find them interesting!**
+**star my repos if you find them interesting**
 
 </div>
