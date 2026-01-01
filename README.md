@@ -5,6 +5,7 @@
 ### ml engineer | cs @ nyu | building ai for good
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonis-garcia-swe)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adonisgarcia.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonis.garcia@nyu.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adonis-garcia-git)
@@ -25,12 +26,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**specialties:** rag systems • llms • vector databases • computer vision • nlp
+**specialties:** rag systems • llms • vector databases • ml platforms • vibe coding
 
 </div>
 
@@ -43,22 +43,22 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="assets/missionml.png" alt="MissionML" width="120"/><br/>
+<img src="assets/missionmllogo.jpg" alt="MissionML" width="120" height="120" style="object-fit: contain;"/><br/>
 <b>ml software engineer</b><br/>
 <sub>sep 2025 - present</sub>
 </td>
 <td align="center" width="25%">
-<img src="assets/bankofamerica.png" alt="Bank of America" width="120"/><br/>
+<img src="assets/bofalogo.jpg" alt="Bank of America" width="120" height="120" style="object-fit: contain;"/><br/>
 <b>software engineering intern</b><br/>
 <sub>may 2025 - aug 2025</sub>
 </td>
 <td align="center" width="25%">
-<img src="assets/polydelta.jpg" alt="Polydelta AI" width="120"/><br/>
+<img src="assets/polydelta.jpg" alt="Polydelta AI" width="120" height="120" style="object-fit: contain;"/><br/>
 <b>ml software engineer</b><br/>
 <sub>jan 2024 - jun 2025</sub>
 </td>
 <td align="center" width="25%">
-<img src="assets/nyu.png" alt="NYU" width="120"/><br/>
+<img src="assets/nyu.png" alt="NYU" width="120" height="120" style="object-fit: contain;"/><br/>
 <b>teaching assistant</b><br/>
 <sub>jul 2023 - may 2024</sub>
 </td>
@@ -69,50 +69,71 @@
 
 ---
 
-## achievements & awards
+## scholarships, awards & hackathon wins
+
+your average dominican student 🇩🇴
 
 <table>
 <tr>
 <td width="50%">
 
-### academic
-- **4.0 gpa** (all semesters)
-- **on track:** first hispanic valedictorian @ tandon
-- **nyu scholar of the year 2023**
-- **glass honors program**
+### scholarships & fellowships
+- **bank of america student leaders** (2025)
+- **the institute for responsible citizenship** (2024-2025)
+- **management leadership for tomorrow career prep** (2024)
+- **nyu glass honors program** ($30k funding, 2023-2026)
+- **hispanic scholarship fund** (2024)
+- **gmis scholarship** (2024)
+- **heop scholar** (full tuition, 2022-2026)
 
 </td>
 <td width="50%">
 
-### innovation
-- **2nd place** - nyuad hackathon
-- **nyu outstanding innovator 2022**
-- **gunter georgi award 2022**
-- **audience choice award**
+### academic awards
+- **nyu scholar of the year** (2023)
+- **nyu outstanding innovator award** (2022)
+  - 1 of 230+ students
+- **nyu gunter georgi award** (2022)
+- **4.0 gpa** - all semesters
+- **on track**: first hispanic valedictorian @ tandon
+- **first heop student** to maintain 4.0 past freshman year
 
 </td>
 </tr>
 </table>
 
+### hackathon highlights
+
+| event | achievement |
+|-------|-------------|
+| **nyuad hackathon for social good** | 2nd place overall + audience choice award |
+| **nyu tandon e-glove project** | outstanding innovator + gunter georgi awards |
+| **shpe national conference** | attended via glass funding |
+| **various ml/ai hackathons** | multiple top finishes in rag/llm categories |
+
 ---
 
 ## featured projects
 
-### [q-quake](https://github.com/adonis-garcia-git/q-quake)
+### [q-quake](https://github.com/elucidator8918/NYUAD)
 > quantum + ai earthquake detection system  
 > `quantum computing` `pytorch` `apis` • 2nd place @ nyuad hackathon
 
-### [cs learning platform](https://github.com/adonis-garcia-git/cs-tutor)
-> personalized llm tutor teaching through your interests  
-> `react` `claude api` `postgresql` • teaches gaming fans cs through game design
-
-### [the e-glove](https://github.com/adonis-garcia-git/eglove)
+### [the e-glove](https://github.com/adonis-garcia-git/e-glove)
 > computer vision wireless mouse  
 > `opencv` `arduino` `python` • won 2 innovation awards
 
-### [course q&a rag](https://github.com/adonis-garcia-git/course-rag)
+### [portfolio website](https://adonisgarcia.com)
+> personal portfolio showcasing projects and experiences  
+> `html` `css` `javascript` `tailwindcss` • fully responsive design
+
+### course q&a rag
 > students ask, ai answers from course docs  
 > `next.js` `pinecone` `fastapi` • analytics dashboard for professors
+
+### cs learning platform
+> personalized llm tutor teaching through your interests  
+> `react` `claude api` `postgresql` • teaches gaming fans cs through game design
 
 ---
 
@@ -128,41 +149,14 @@
 
 ---
 
-## currently
-
-```javascript
-const adonis = {
-    code: ["python", "c++", "javascript", "typescript"],
-    focus: "building rag systems for production",
-    learning: ["quantum computing", "advanced ml scaling", "arabic"],
-    challenge: "balancing student + engineer + mentor + human",
-    goal: "ai tools for underserved communities worldwide",
-    fun_fact: "spent a weekend on a sheikh's private island"
-}
-```
-
----
-
-## the mission
-
-> **from 778 to ∞**: only 778 dominican students studied in the us in 2021. i'm building ai-powered educational tools to change that number forever.
-
-**the plan:**
-1. master ml/ai at world-class university
-2. build production systems that work
-3. create accessible educational ai
-4. deploy in underserved communities
-5. scale globally
-
----
-
 ## quick facts
 
 - first heop student at tandon to maintain 4.0 past freshman year
 - backpacked 6 european countries in 10 days
+- studied abroad in abu dhabi (2x) & seoul
 - gaming & gym enthusiast
 - mentor to 50+ underrepresented students
-- powered by coffee and my mom's sacrifices
+- powered by desire to make cool shit and my mom's sacrifices
 
 ---
 
@@ -173,10 +167,11 @@ const adonis = {
 **open to:** collaboration • mentorship • speaking • open source
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonis-garcia-swe)
+[![Instagram](https://img.shields.io/badge/Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonis.garcia@nyu.edu)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adonisgarcia.com)
 
-### *"from the bronx to building ai for good. every line of code carries my mother's sacrifices."*
+### *"from the bronx to the world. writing code that would make my mother proud."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adonis-garcia-git&color=blueviolet&style=for-the-badge)
 
