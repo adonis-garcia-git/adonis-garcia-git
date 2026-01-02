@@ -4,7 +4,7 @@
   
 ### ml engineer | cs @ nyu | building ai for good
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonis-garcia-swe)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonis-garcia-swe)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adonisgarcia.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonis.garcia@nyu.edu)
@@ -44,22 +44,29 @@
 <tr>
 <td align="center" width="25%">
 <img src="assets/missionmllogo.jpg" alt="MissionML" width="120" height="120" style="object-fit: contain;"/><br/>
-<b>ml software engineer</b><br/>
+<b>missionml</b><br/>
+<sub>ml software engineer</sub><br/>
 <sub>sep 2025 - present</sub>
 </td>
+<td width="2%"></td>
 <td align="center" width="25%">
 <img src="assets/bofalogo.jpg" alt="Bank of America" width="120" height="120" style="object-fit: contain;"/><br/>
-<b>software engineering intern</b><br/>
+<b>bank of america</b><br/>
+<sub>software engineering intern</sub><br/>
 <sub>may 2025 - aug 2025</sub>
 </td>
+<td width="2%"></td>
 <td align="center" width="25%">
 <img src="assets/polydelta.jpg" alt="Polydelta AI" width="120" height="120" style="object-fit: contain;"/><br/>
-<b>ml software engineer</b><br/>
+<b>polydelta ai</b><br/>
+<sub>ml software engineer</sub><br/>
 <sub>jan 2024 - jun 2025</sub>
 </td>
+<td width="2%"></td>
 <td align="center" width="25%">
 <img src="assets/nyu.png" alt="NYU" width="120" height="120" style="object-fit: contain;"/><br/>
-<b>teaching assistant</b><br/>
+<b>nyu tandon</b><br/>
+<sub>teaching assistant</sub><br/>
 <sub>jul 2023 - may 2024</sub>
 </td>
 </tr>
@@ -69,47 +76,29 @@
 
 ---
 
-## scholarships, awards & hackathon wins
+## 🏆 scholarships, awards, fellowships, & hackathon wins
 
-your average dominican student 🇩🇴
+your average dominican student 🇩🇴 | [portfolio](https://www.adonisgarcia.com/)
 
-<table>
-<tr>
-<td width="50%">
-
-### scholarships & fellowships
-- **bank of america student leaders** (2025)
-- **the institute for responsible citizenship** (2024-2025)
-- **management leadership for tomorrow career prep** (2024)
-- **nyu glass honors program** ($30k funding, 2023-2026)
-- **hispanic scholarship fund** (2024)
-- **gmis scholarship** (2024)
-- **heop scholar** (full tuition, 2022-2026)
-
-</td>
-<td width="50%">
-
-### academic awards
-- **nyu scholar of the year** (2023)
-- **nyu outstanding innovator award** (2022)
-  - 1 of 230+ students
-- **nyu gunter georgi award** (2022)
-- **4.0 gpa** - all semesters
-- **on track**: first hispanic valedictorian @ tandon
-- **first heop student** to maintain 4.0 past freshman year
-
-</td>
-</tr>
-</table>
-
-### hackathon highlights
-
-| event | achievement |
-|-------|-------------|
-| **nyuad hackathon for social good** | 2nd place overall + audience choice award |
-| **nyu tandon e-glove project** | outstanding innovator + gunter georgi awards |
-| **shpe national conference** | attended via glass funding |
-| **various ml/ai hackathons** | multiple top finishes in rag/llm categories |
+| # | achievement | award/prize | date |
+|---|-------------|-------------|------|
+| 17 | **Hispanic Scholarship Fund** | 💵 Scholarship | sep '25 |
+| 16 | **NYUAD Hackathon for Social Good** | 🥈 2nd Place + 👏 Audience Choice Award | apr '25 |
+| 15 | **Google x BASTA SWEP Tech Fellow** | 🎓 Google Fellowship Program | jan '25 |
+| 14 | **Last Mile Scholarship** | 💵 Scholarship | dec '24 |
+| 13 | **SHPE National Conference** | ✈️ GLASS Funded Attendance | nov '24 |
+| 12 | **National Supermarket Association Scholarship** | 💵 Scholarship | oct '24 |
+| 11 | **Hispanic Scholarship Fund** | 💵 Scholarship | sep '24 |
+| 10 | **The Institute for Responsible Citizenship** | 🎓 DC Fellowship Program | jun '24 |
+| 9 | **Management Leadership for Tomorrow Career Prep** | 📈 Professional Development | jan '24 |
+| 8 | **NYU Sophomore of the Year** | ⭐ Academic Excellence | nov '23 |
+| 7 | **National Supermarket Association Scholarship** | 💵 Scholarship | oct '23 |
+| 6 | **Hispanic Scholarship Fund** | 💵 Scholarship | sep '23 |
+| 5 | **NYU GLASS Honors Program** | 💰 $30k Funding | aug '23 |
+| 4 | **NYU Scholar of the Year** | ⭐ Academic Excellence | may '23 |
+| 3 | **NYU Gunter Georgi Award** | 🎖️ Innovation in Engineering Design | dec '22 |
+| 2 | **NYU Outstanding Innovator Award** | 🏅 1 of 230+ students | dec '22 |
+| 1 | **HEOP Scholar** | 🎓 Full Tuition | aug '22 |
 
 ---
 
@@ -137,18 +126,6 @@ your average dominican student 🇩🇴
 
 ---
 
-## github stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adonis-garcia-git&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adonis-garcia-git&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## quick facts
 
 - first heop student at tandon to maintain 4.0 past freshman year
@@ -164,7 +141,7 @@ your average dominican student 🇩🇴
 
 <div align="center">
 
-**open to:** collaboration • mentorship • speaking • open source
+**open to:** collaboration • mentorship • speaking • internships • post-grad opportunities • starting a company
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonis-garcia-swe)
 [![Instagram](https://img.shields.io/badge/Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
